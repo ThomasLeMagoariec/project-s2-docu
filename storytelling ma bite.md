@@ -53,18 +53,20 @@ spread around and about (easter eggs)
 
 # Item / Objects
 
-# Mechaniques
+# Mechaniques - mouvement
 - jump
 - escaliers
 - echelles
 - sprint
+- système de stamina
+- physique d'eau (genre si t'essaie de te barrer de l'île tu te fait croquer par un requin)
+
+# Mechaniques - autre
 - [[#Combat]]
 - Interaction avec les [[#NPC]]
 - Interaction avec [[#Item / Objects]]
 - Limite de poids / nb d'objetcs
 - economie / budget (vla la kitchta)
-- physique d'eau (genre si t'essaie de te barrer de l'île tu te fait croquer par un requin)
-- système de stamina
 - cycle jour/nuit
 
 ## Combat
